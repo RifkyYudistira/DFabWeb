@@ -17,6 +17,7 @@ h1, h2, h3{
 }
 
 #header {
+  padding: 60px;
   background-color: #66CCFF;
   color: white;
   text-align: center;
